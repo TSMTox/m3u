@@ -1,0 +1,825 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DW España | España" tvg-logo="" group-title="España | BIXI Channels",DW España | España
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Telemundo | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Cancun | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",Canal 10 Cancun | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",Canal Once | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",Canal 11 | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",Multimedios | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Milenio TV | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",Milenio TV | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW | Mundo y Noticias" tvg-logo="" group-title="Mundo y Noticias | BIXI Channels",DW | Mundo y Noticias
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="mtmad 24h | España" tvg-logo="" group-title="España | BIXI Channels",mtmad 24h | España
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sevilla FC TV | España" tvg-logo="" group-title="España | BIXI Channels",Sevilla FC TV | España
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Top | Musica" tvg-logo="" group-title="Musica | BIXI Channels",Music Top | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Sur | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",FOX Sports Sur | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 Sur | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",FOX Sports 2 Sur | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 Sur | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",FOX Sports 3 Sur | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",ESPN Deportes | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",FOX Deportes | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports | Deportes Premium" tvg-logo="" group-title="Deportes | BIXI Channels",Win Sports | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Claro Sports | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Warner Channel | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/42.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Universal Channel | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TruTV | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",TruTV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",TNT | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",TBS | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Syfy | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Syfy | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Studio Universal | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Sony | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN Telenovelas | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",RCN Telenovelas | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Paramount Channel | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Glitz | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Glitz | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",FOX Life | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",FOX | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Food Network | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",El Gourmet | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Distrito Comedia | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",De Pelicula | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/58.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Comedy Central | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Cinecanal | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Boomerang | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/62.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",AXN | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",A&E | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Univision | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Univision | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UniMas | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",UniMas | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo NY | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Telemundo NY | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/67.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Miami | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Telemundo Miami | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/68.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo LA | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Telemundo LA | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Universo | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",NBC Universo | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus | Premium" tvg-logo="" group-title="Premium | BIXI Channels",HBO Plus | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/71.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family | Premium" tvg-logo="" group-title="Premium | BIXI Channels",HBO Family | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 | Premium" tvg-logo="" group-title="Premium | BIXI Channels",HBO 2 | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO | Premium" tvg-logo="" group-title="Premium | BIXI Channels",HBO | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus | Premium" tvg-logo="" group-title="Premium | BIXI Channels",Golden Plus | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXM | Premium" tvg-logo="" group-title="Premium | BIXI Channels",FXM | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX | Premium" tvg-logo="" group-title="Premium | BIXI Channels",FX | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Series | Premium" tvg-logo="" group-title="Premium | BIXI Channels",FOX Premium Series | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Movies | Premium" tvg-logo="" group-title="Premium | BIXI Channels",FOX Premium Movies | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Classics | Premium" tvg-logo="" group-title="Premium | BIXI Channels",FOX Premium Classics | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/80.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Cinema | Premium" tvg-logo="" group-title="Premium | BIXI Channels",FOX Premium Cinema | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/81.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Action | Premium" tvg-logo="" group-title="Premium | BIXI Channels",FOX Premium Action | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/82.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax | Premium" tvg-logo="" group-title="Premium | BIXI Channels",Cinemax | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/83.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC | Premium" tvg-logo="" group-title="Premium | BIXI Channels",AMC | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classics | Musica" tvg-logo="" group-title="Musica | BIXI Channels",VH1 Classics | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits | Musica" tvg-logo="" group-title="Musica | BIXI Channels",MTV Hits | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV | Musica" tvg-logo="" group-title="Musica | BIXI Channels",MTV | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon | Kids" tvg-logo="" group-title="Kids | BIXI Channels",Nickelodeon | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr | Kids" tvg-logo="" group-title="Kids | BIXI Channels",Nick Jr | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD | Kids" tvg-logo="" group-title="Kids | BIXI Channels",Disney XD | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr | Kids" tvg-logo="" group-title="Kids | BIXI Channels",Disney Jr | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network | Kids" tvg-logo="" group-title="Kids | BIXI Channels",Cartoon Network | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",Nat Geo Wild | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",Nat Geo | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",Investigation Discovery | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",History | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/97.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2 | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",H2 | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/98.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",Discovery Turbo | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",Discovery TLC | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",Discovery Science | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids | Kids" tvg-logo="" group-title="Kids | BIXI Channels",Discovery Kids | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",Discovery H&H | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",Discovery Channel | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",Animal Planet | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galavision | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",Galavision | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",Antena 3 | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox News | Mundo y Noticias" tvg-logo="" group-title="Mundo y Noticias | BIXI Channels",Fox News | Mundo y Noticias
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Internacional | Mundo y Noticias" tvg-logo="" group-title="Mundo y Noticias | BIXI Channels",CNN Internacional | Mundo y Noticias
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Espanol | Mundo y Noticias" tvg-logo="" group-title="Mundo y Noticias | BIXI Channels",CNN Espanol | Mundo y Noticias
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg | Mundo y Noticias" tvg-logo="" group-title="Mundo y Noticias | BIXI Channels",Bloomberg | Mundo y Noticias
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",Canal 5 | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",Las Estrellas | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Foro TV | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",Foro TV | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40 | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",ADN 40 | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",FOX Sports 3 | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",FOX Sports 2 | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",FOX Sports | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",ESPN 3 | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",ESPN 2 | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",ESPN | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Plus | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",ESPN Plus | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXM | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",FXM | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telehit | Musica" tvg-logo="" group-title="Musica | BIXI Channels",Telehit | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",Azteca 7 | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature | Premium" tvg-logo="" group-title="Premium | BIXI Channels",HBO Signature | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier | Premium" tvg-logo="" group-title="Premium | BIXI Channels",Golden Premier | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",E! | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",TUDN | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Español | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Bein Sports Español | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",MLB Network | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mobcrush Gaming | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",Mobcrush Gaming | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",Red Bull TV | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV (UHD) | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",Red Bull TV (UHD) | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rooster Teeth TV Gaming | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",Rooster Teeth TV Gaming | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xcorps TV | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",Xcorps TV | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Time | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",Fight Time | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="30A Music | Musica" tvg-logo="" group-title="Musica | BIXI Channels",30A Music | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classic Arts Showcase | Musica" tvg-logo="" group-title="Musica | BIXI Channels",Classic Arts Showcase | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CMC | Musica" tvg-logo="" group-title="Musica | BIXI Channels",CMC | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CMC USA | Musica" tvg-logo="" group-title="Musica | BIXI Channels",CMC USA | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Weather Nation | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Weather Nation | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News 3 | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",BBC World News 3 | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN 1 | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",CGTN 1 | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN 2 | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",CGTN 2 | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="30A TV | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",30A TV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AKC TV  | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",AKC TV  | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="America's Funniest Videos | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",America's Funniest Videos | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="American Horrors | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",American Horrors | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Apple Sauce Network | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Apple Sauce Network | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beach TV - 30A | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Beach TV - 30A | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beach TV - Panama City | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Beach TV - Panama City | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beach TV - Pawleys Island | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Beach TV - Pawleys Island | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Television 1 | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Bloomberg Television 1 | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Buzzr | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Buzzr | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",CBS | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS News | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",CBS News | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cheddar Business | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Cheddar Business | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cheddar News | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Cheddar News | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONtv | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",CONtv | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ET Live | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",ET Live | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmrise Crime | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Filmrise Crime | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmrise Classics | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Filmrise Classics | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmrise Family | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Filmrise Family | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk TV | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Folk TV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food52 | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Food52 | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Free Speech TV | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Free Speech TV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Key TV | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Key TV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",NBC | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Newsmax TV | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Newsmax TV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="30A.TV | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",30A.TV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Z Living | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Z Living | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CC-TV Charlotte County | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",CC-TV Charlotte County | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Afizzionados | Deportes" tvg-logo="" group-title="Deportes | BIXI Channels",Afizzionados | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Mega Mundial" tvg-logo="" group-title="Nuevos Canales!",La Mega Mundial
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latido Music" tvg-logo="" group-title="Nuevos Canales!",Latido Music
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Melody Channel" tvg-logo="" group-title="Nuevos Canales!",Melody Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Pro" tvg-logo="" group-title="Nuevos Canales!",MTV Pro
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT Español" tvg-logo="" group-title="Nuevos Canales!",RT Español
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemusica" tvg-logo="" group-title="Nuevos Canales!",Telemusica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Mundo" tvg-logo="" group-title="Nuevos Canales!",Zee Mundo
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15TV Sabinas" tvg-logo="" group-title="Nuevos Canales!",15TV Sabinas
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sipse TV Cancun" tvg-logo="" group-title="Nuevos Canales!",Sipse TV Cancun
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teleformula" tvg-logo="" group-title="Nuevos Canales!",Teleformula
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemax Hermosillo" tvg-logo="" group-title="Nuevos Canales!",Telemax Hermosillo
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teleritmo" tvg-logo="" group-title="Nuevos Canales!",Teleritmo
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xti TV Guadalajara" tvg-logo="" group-title="Nuevos Canales!",Xti TV Guadalajara
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AYM Sports Mexico | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",AYM Sports Mexico | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes Mexico | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",TVC Deportes Mexico | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports Mexico | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",TyC Sports Mexico | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein LaLiga Latinos | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Bein LaLiga Latinos | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports N Latinos | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Bein Sports N Latinos | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Barca TV Espana | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Barca TV Espana | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Toros Espana | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Canal Toros Espana | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 1 Espana | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Movistar Deportes 1 Espana | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Formula 1 Espana | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Movistar Formula 1 Espana | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Futbol Espana | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Movistar Futbol Espana | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf Espana | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Movistar Golf Espana | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV Espana | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Real Madrid TV Espana | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teledeporte Espana | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Teledeporte Espana | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Bein Sports USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sport Network USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",CBS Sport Network USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports Network USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Eleven Sports Network USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",ESPN USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",ESPN 2 USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fight Network USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Soccer Plus USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Arizona USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports Arizona USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Carolinas USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports Carolinas USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Detroit USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports Detroit USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports News | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports News | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Houston USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports Houston USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Indiana USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports Indiana USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Mid West USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports Mid West USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports New Orleans USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports New Orleans USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports North USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports North USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Ohio USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports Ohio USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Oklahoma USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports Oklahoma USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports PrimeTicket USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports PrimeTicket USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports San Antonio USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports San Antonio USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports San Diego USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports San Diego USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports South USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports South USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Southeast USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports Southeast USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Southwest USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports Southwest USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports SUN USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports SUN USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Tennessee USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports Tennessee USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sportstime Ohio USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",FOX Sportstime Ohio USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports West USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports West USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Winsconsin USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports Winsconsin USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Yes USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Fox Sports Yes USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FS1 USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",FS1 USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FS2 USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",FS2 USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Gol TV USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",NBC Golf USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Bay Area USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",NBC Sports Bay Area USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports California USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",NBC Sports California USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Outdoor Channel USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC-12 Arizona USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",PAC-12 Arizona USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC-12 Bay Area USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",PAC-12 Bay Area USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC-12 Los Angeles USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",PAC-12 Los Angeles USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC-12 Mountain USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",PAC-12 Mountain USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC-12 Network USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",PAC-12 Network USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC-12 Oregon USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",PAC-12 Oregon USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC-12 Washington USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",PAC-12 Washington USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet LA USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sportsnet LA USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet NY USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sportsnet NY USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel USA | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Tennis Channel USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Box Nation UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Box Nation UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",BT Sport 1 UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",BT Sport 2 UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3 UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",BT Sport 3 UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport ESPN UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",BT Sport ESPN UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chelsea TV UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Chelsea TV UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Eurosport 1 UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Eurosport 2 UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUTV UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",MUTV UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 1 UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Premier Sports 1 UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 2 UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Premier Sports 2 UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sky Sports Action UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sky Sports Arena UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sky Sports Cricket UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sky Sports Football UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sky Sports Golf UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sky Sports Main Event UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sky Sports Mix UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sky Sports News UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League UK | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sky Sports Premier League UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet East Canada | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sportsnet East Canada | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet One Canada | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sportsnet One Canada | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Ontario Canada | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sportsnet Ontario Canada | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Pacific Canada | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sportsnet Pacific Canada | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet West Canada | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sportsnet West Canada | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet World Canada | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Sportsnet World Canada | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1 Canada | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",TSN 1 Canada | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2 Canada | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",TSN 2 Canada | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3 Canada | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",TSN 3 Canada | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4 Canada | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",TSN 4 Canada | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 5 Canada | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",TSN 5 Canada | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 Colombia | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",FOX Sports 2 Colombia | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 Colombia | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",FOX Sports 3 Colombia | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Colombia | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",FOX Sports Colombia | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports Colombia | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Claro Sports Colombia | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 Colombia | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",ESPN 2 Colombia | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 Colombia | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",ESPN 3 Colombia | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Colombia | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",ESPN Colombia | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Win Colombia Sports | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Win Colombia Sports | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ Cinema | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",AZ Cinema | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ Clic | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",AZ Clic | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ Corazon | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",AZ Corazon | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ Mundo | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",AZ Mundo | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",Azteca 7 | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",Azteca Uno | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas | Nacionales" tvg-logo="" group-title="Nacionales | BIXI Channels",Las Estrellas | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Imagen TV | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Imagen TV | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unicable | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Unicable | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Pasiones | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Space | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sundance Channel | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Sundance Channel | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",TCM | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Telemundo Internacional | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLnovelas | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",TLnovelas | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",TNT Series | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",RCN | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN Telenovelas | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",RCN Telenovelas | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caracol | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Caracol | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Cinelatino | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Hola TV | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Lifetime | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic | Entretenimiento" tvg-logo="" group-title="Entretenimiento | BIXI Channels",Mas Chic | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV | Kids" tvg-logo="" group-title="Kids | BIXI Channels",BabyTV | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel | Kids" tvg-logo="" group-title="Kids | BIXI Channels",Disney Channel | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids | Kids" tvg-logo="" group-title="Kids | BIXI Channels",Nat Geo Kids | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 | Kids" tvg-logo="" group-title="Kids | BIXI Channels",Nick 2 | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NickToons | Kids" tvg-logo="" group-title="Kids | BIXI Channels",NickToons | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast | Kids" tvg-logo="" group-title="Kids | BIXI Channels",Tooncast | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",Discovery Civilization | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",Discovery Science | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",Discovery Theater | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",Discovery World | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Comedy | Premium" tvg-logo="" group-title="Premium | BIXI Channels",FOX Premium Comedy | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Family | Premium" tvg-logo="" group-title="Premium | BIXI Channels",FOX Premium Family | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier 2 | Premium" tvg-logo="" group-title="Premium | BIXI Channels",Golden Premier 2 | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime | Premium" tvg-logo="" group-title="Premium | BIXI Channels",MAX Prime | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX Up | Premium" tvg-logo="" group-title="Premium | BIXI Channels",MAX Up | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf Latin America | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Golf Latin America | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live | Musica" tvg-logo="" group-title="Musica | BIXI Channels",MTV Live | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 | Musica" tvg-logo="" group-title="Musica | BIXI Channels",VH1 | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classics | Musica" tvg-logo="" group-title="Musica | BIXI Channels",VH1 Classics | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Rey | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",El Rey | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Estrella TV | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Estrella TV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC 7 (Bay Area) | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",ABC 7 (Bay Area) | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",AMC | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Animal Planet | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",BabyTV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bravo | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Bravo | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Cartoon Network | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movie Channel | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Sony Movie Channel | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Cinemax | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Comedy Central | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cozi TV | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Cozi TV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Discovery Channel | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Family | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Discovery Family | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Disney Channel | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Disney Jr | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Disney XD | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIY | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",DIY | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",E! | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Food Network | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX 4 (Dallas) | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",FOX 4 (Dallas) | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX 5 (Atlanta) | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",FOX 5 (Atlanta) | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",FOX Life | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuse | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Fuse | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",FX | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXM | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",FXM | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXX | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",FXX | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fyi | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Fyi | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Channel | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Hallmark Channel | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",HBO | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",HBO 2 | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",HBO Comedy | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",HBO Signature | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",HGTV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",History | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Investigation Discovery | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Lifetime | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MSG | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",MSG | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MSG Plus | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",MSG Plus | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Nat Geo | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Mundo | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Nat Geo Mundo | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Nat Geo Wild | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",National Geographic | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC 4 (Los Angeles) | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",NBC 4 (Los Angeles) | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCS Network | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",NBCS Network | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN Northwest | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",NBCSN Northwest | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN Philadelphia | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",NBCSN Philadelphia | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NESN | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",NESN | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NESN Plus | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",NESN Plus | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIckelodeon | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",NIckelodeon | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Network | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Paramount Network | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PBS | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",PBS | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pop | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Pop | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Showtime | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Showtime 2 | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Showcase | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Showtime Showcase | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Starz Cinema | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz East | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Starz East | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SyFy | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",SyFy | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",TBS | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",TLC | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",TNT | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",Travel Channel | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TruTV | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",TruTV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA Network | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",USA Network | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",VH1 | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC One | United States Channel" tvg-logo="" group-title="USA | BIXI Channels",BBC One | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fairfield (MT) (Ski Slopes) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Fairfield (MT) (Ski Slopes) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Herndon (VA) (Midway Home Service) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Herndon (VA) (Midway Home Service) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Martin (TN) (Elam Center) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Martin (TN) (Elam Center) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="New Orleans (LA) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",New Orleans (LA) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="New York City (NY) (5th Avenue) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",New York City (NY) (5th Avenue) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="New York City (NY) (Times Square 1) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",New York City (NY) (Times Square 1) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="New York City (NY) (Times Square 2) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",New York City (NY) (Times Square 2) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panama City (FL) (Schooner's Bar Cam) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Panama City (FL) (Schooner's Bar Cam) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panama City (FL) (Schooner's Sun Cam) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Panama City (FL) (Schooner's Sun Cam) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Richmond (VA) (Science Museum of Virginia) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Richmond (VA) (Science Museum of Virginia) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="San Diego (CA) (Panda 1) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",San Diego (CA) (Panda 1) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="San Diego (CA) (Panda 2) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",San Diego (CA) (Panda 2) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="San Diego (CA) (Polar Bear) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",San Diego (CA) (Polar Bear) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Toronto (Niagara Falls 1) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Toronto (Niagara Falls 1) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="London (Abbey Road) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",London (Abbey Road) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bremen (Gemeinde Rednitzhembach Rathausplatz) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Bremen (Gemeinde Rednitzhembach Rathausplatz) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Velbert (Nordrhein-Westfalen)" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Velbert (Nordrhein-Westfalen)
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rauris (Rauriser Marktplatz) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Rauris (Rauriser Marktplatz) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jerzens (Tirol Airport) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Jerzens (Tirol Airport) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Basel-Stadt (Neubau Biozentrum) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Basel-Stadt (Neubau Biozentrum) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Finse (Hotel Finse 1222) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Finse (Hotel Finse 1222) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pieksamaki (Pieksanjarvi Lake) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Pieksamaki (Pieksanjarvi Lake) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sjoberg (Marsfjall Mountain Lodge) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Sjoberg (Marsfjall Mountain Lodge) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maastricht (Amrâth Hotel DuCasque) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Maastricht (Amrâth Hotel DuCasque) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rome (St. Peter's Basilica) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Rome (St. Peter's Basilica) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Potes (Picos de Europa) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Potes (Picos de Europa) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rio de Janeiro (Copacabana Beach) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Rio de Janeiro (Copacabana Beach) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Łeba (West Beach) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Łeba (West Beach) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nablus (City Center) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Nablus (City Center) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chengdu (Panda Reserve) | CCTV" tvg-logo="" group-title="CCTV (Cámaras en vivo)",Chengdu (Panda Reserve) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Monte Maria | Canales Religiosos" tvg-logo="" group-title="Canales Religiosos",Monte Maria | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Genesis TV | Canales Religiosos" tvg-logo="" group-title="Canales Religiosos",Genesis TV | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Diocesano | Canales Religiosos" tvg-logo="" group-title="Canales Religiosos",Canal Diocesano | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Español | Canales Religiosos" tvg-logo="" group-title="Canales Religiosos",Español | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBN Español | Canales Religiosos" tvg-logo="" group-title="Canales Religiosos",CBN Español | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Logos TV | Canales Religiosos" tvg-logo="" group-title="Canales Religiosos",Logos TV | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Magestad TV | Canales Religiosos" tvg-logo="" group-title="Canales Religiosos",Magestad TV | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV Vida | Canales Religiosos" tvg-logo="" group-title="Canales Religiosos",RTV Vida | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Solidaria TV | Canales Religiosos" tvg-logo="" group-title="Canales Religiosos",Solidaria TV | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cali TV" tvg-logo="" group-title="Musica | BIXI Channels",Cali TV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/25474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Español | Ciencia y Cultura" tvg-logo="" group-title="Ciencia y Cultura | BIXI Channels",CGTN Español | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/25783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP | Deportes Premium" tvg-logo="" group-title="Deportes Premium | BIXI Channels",Movistar MotoGP | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/25784.m3u8
